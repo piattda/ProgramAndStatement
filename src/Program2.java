@@ -13,7 +13,7 @@ import components.utilities.Tokenizer;
  *
  * @convention [$this.rep is a valid representation of a Program]
  * @correspondence this = ($this.name, $this.context, $this.body)
- * @author David Piatt & Paul Shortman
+ * @author David Piatt
  */
 public class Program2 extends ProgramSecondary {
 
